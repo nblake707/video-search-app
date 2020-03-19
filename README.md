@@ -1,1 +1,1 @@
-A small Youtube clone that utilizes the Youtube API
+A small Youtube clone. Utilizes the Youtube API
